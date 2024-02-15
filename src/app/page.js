@@ -17,7 +17,8 @@ export default function Home() {
           >
             By{' '}
             <Image
-              <--Fix image-->
+              <!--Update readme.md-->
+              <!--Fix image-->
               src="/vercel.svg"
               alt="Vercel Logo"
               className="dark:invert"
